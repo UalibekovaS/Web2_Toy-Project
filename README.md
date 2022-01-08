@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://fir-8b42b.web.app![image](https://user-images.githubusercontent.com/92016048/148632187-6e4111a7-967d-4e47-af12-31b369e138dd.png) Using this URL you can check the website
+https://fir-8b42b.web.app Using this URL you can check the website
 
 In the project directory, you can run:
 
